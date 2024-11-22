@@ -20,8 +20,8 @@ Here are some ideas to get you started:
 **Software Engineering Student | Passionate about AI & Machine Learning**
 
 🌍 **Location:** France  
-🎓 **Education:** Software Engineering, specializing in PSMSC (ENSEEIHT)  
-📅 **Seeking Internship:** Final-year internship (5–6 months), starting March 2024  
+🎓 **Education:** Software Engineering 
+📅 **Seeking Internship:** Final-year internship (5–6 months), starting March 2025  
 📫 **Contact:** [LinkedIn](https://www.linkedin.com/in/asmae-karmouchi-522769255/)
 
 
@@ -30,9 +30,10 @@ Here are some ideas to get you started:
 <h2 align="center">⚒️ Languages, Frameworks, and Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=python,java,c,kotlin,html,css,javascript,sql,flask,nodejs,react,express" /><br>
-    <img src="https://skillicons.dev/icons?i=postgresql,mysql,docker,kubernetes,tensorflow" /><br>
-    <img src="https://skillicons.dev/icons?i=github,git,vscode" /><br>
+    <img src="https://skillicons.dev/icons?i=python,java,c,kotlin,html,css,javascript,flask,octave,r,latex,nodejs,react,express" /><br>
+    <img src="https://skillicons.dev/icons?i=postgresql,mysql,docker,kubernetes,aws,tensorflow,opencv,sklearn,tailwind," /><br>
+    <img src="https://skillicons.dev/icons?i=windows,linux" /><br>
+    <img src="https://skillicons.dev/icons?i=github,git,vscode,visualstudio" /><br>
 </div>
 <br/>
 <hr/>
