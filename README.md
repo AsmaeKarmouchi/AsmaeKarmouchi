@@ -1,4 +1,7 @@
-##Asmae KARMOUCHI👩‍💻 👋
+
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👩‍💻 👋;+I'm+Asmae+KARMOUCHI!;" />
+</h1>
 
 <!--
 **AsmaeKarmouchi/AsmaeKarmouchi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -19,23 +22,39 @@ Here are some ideas to get you started:
 🌍 **Location:** France  
 🎓 **Education:** Software Engineering, specializing in PSMSC (ENSEEIHT)  
 📅 **Seeking Internship:** Final-year internship (5–6 months), starting March 2024  
-📫 **Contact:** [LinkedIn](https://www.linkedin.com/in/asmaekarmouchi-522769255/)
+📫 **Contact:** [LinkedIn](https://www.linkedin.com/in/asmae-karmouchi-522769255/)
 
 
-### Programming Languages:
-- **Coding:** Python, Java, C, Kotlin, SQL, HTML/CSS, JavaScript, XML, SPARQL, Octave, LaTeX  
-- **Databases:** MySQL, PostgreSQL, SQL Server, Oracle  
-- **Technologies and Tools:** Flask, SSIS, Docker, Kubernetes, OpenCV, UML, Merise  
 
+ 
+<h2 align="center">⚒️ Languages, Frameworks, and Tools ⚒️</h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=python,java,c,kotlin,html,css,javascript,sql,flask,nodejs,react,express" /><br>
+    <img src="https://skillicons.dev/icons?i=postgresql,mysql,docker,kubernetes,tensorflow" /><br>
+    <img src="https://skillicons.dev/icons?i=github,git,vscode" /><br>
+</div>
+<br/>
+<hr/>
 
 ### Specializations:
 - Software Development  
 - Data Analysis & Artificial Intelligence (AI)  
 - Computer Vision and Deep Learning  
-- Modeling and Simulation 
+- Modeling and Simulation
 
+  
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
+  
+  <br/><br/><br/>
+</div>
+
+<hr/>
 ### Methodologies:
-- Agile (Scrum), Waterfall (V-Model)
+- Agile (Scrum), Merise, Waterfall (V-Model)
 
 ### Languages:
 - **Arabic:** Native  
@@ -57,21 +76,17 @@ Here are some ideas to get you started:
 
 ---
 
-## 🚀 Projects
+<hr/>
 
-### **E-Syndic Web Platform**
-- Developed a web application for property management in Morocco, automating administrative tasks and simplifying the management of residences, fees, and incidents.  
-- **Technologies:** JEE, Java, Maven, MySQL, Docker, jBCrypt, Chart.js.
+<h2 align="center">⚡ Stats ⚡</h2>
+<br>
+<div align=center>
+  <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=salesp07&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+</div>
 
-### **Internship Management Platform (ECM)**
-- Built an information system to streamline internship management processes (data modeling: MCD, MLD, MCT).  
-- **Technologies:** React.js, Node.js, Express.js, PostgreSQL, bcryptjs, PERN Stack Architecture.
+<br/><br/>
 
-### **Dental Segmentation App**
-- Developed a web application for dental image segmentation using deep learning (U-Net).  
-- **Technologies:** Flask, Python, OpenCV, AI (Deep Learning).
-
----
+<hr/>
 
 ## 🌟 Extracurricular Activities
 
@@ -83,4 +98,3 @@ Here are some ideas to get you started:
 - Coordinated projects focused on data analysis and machine learning.  
 - Organized hands-on workshops on data cleaning and visualization.
 
----
