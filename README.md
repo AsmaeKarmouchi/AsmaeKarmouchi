@@ -19,10 +19,10 @@ Here are some ideas to get you started:
 -->
 **Software Engineering Student | Passionate about AI & Machine Learning**
 
-🌍 **Location:** France  
-🎓 **Education:** Software Engineering 
-📅 **Seeking Internship:** Final-year internship (5–6 months), starting March 2025  
-📫 **Contact:** [LinkedIn](https://www.linkedin.com/in/asmae-karmouchi-522769255/)
+- 🌍 **Location:** France  
+- 🎓 **Education:** Software Engineering 
+- 📅 **Seeking Internship:** Final-year internship (5–6 months), starting March 2025  
+- 📫 **Contact:** [LinkedIn](https://www.linkedin.com/in/asmae-karmouchi-522769255/)
 
 
 
