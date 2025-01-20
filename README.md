@@ -43,6 +43,7 @@ Here are some ideas to get you started:
 - Data Analysis & Artificial Intelligence (AI)  
 - Computer Vision and Deep Learning  
 - Modeling and Simulation
+- LLM and GenAI
 
   
 <div align="center">
@@ -84,7 +85,7 @@ Here are some ideas to get you started:
 <div align=center>
   
 
-<br/><br/>
+<br/>
 
 <hr/>
 
