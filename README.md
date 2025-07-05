@@ -59,6 +59,12 @@ Here are some ideas to get you started:
 
 ## 💼 Professional Experience
 
+### **INTERNSHiP ‑ DEVELOPMENT OF GENERATIVE AI SOLUTION March – August 2025 Scalian Toulouse, France
+• Designed a pipeline for extracting key insights from strategic documents using PyMuPDF for PDF parsing
+• Fine‑tuned RoBERTa for risk phrase detection and named entity recognition on strategic documents..
+• Compared the performance of LLaMA 3 (8B) and Mistral in extracting business entities related to risks
+• Technologies: Python, RoBERTa, LLMs, Hugging Face, Docker, FastAPI, PostgreSQL.
+
 ### **Business Intelligence Engineer - BCP Securities Services** (06/2024 – 09/2024)
 - Analyzed requirements for financial data management.  
 - Developed a large-scale data storage and manipulation solution using **Python, PostgreSQL, SQL Server, and SSIS**.  
