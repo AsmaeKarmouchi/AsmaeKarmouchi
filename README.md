@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-**Software Engineering Student | Passionate about AI & Machine Learning**
+**Software Engineering Student | Python & Java | Passionate about AI & Machine Learning**
 
-- 🌍 **Location:** France  
+- 🌍 **Location:** France & Morocco 
 - 🎓 **Education:** Software Engineering 
 - 📅 **Seeking Internship:**  I am seeking a research-oriented experience in AI , starting in September or October 2025
 - 📫 **Contact:** [LinkedIn](https://www.linkedin.com/in/asmae-karmouchi-522769255/)
