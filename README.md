@@ -21,7 +21,6 @@ Here are some ideas to get you started:
 
 - 🌍 **Location:** France & Morocco 
 - 🎓 **Education:** Software Engineering 
-- 📅 **Seeking Internship:**  I am seeking a research-oriented experience in AI , starting in September or October 2025
 - 📫 **Contact:** [LinkedIn](https://www.linkedin.com/in/asmae-karmouchi-522769255/)
 
 
