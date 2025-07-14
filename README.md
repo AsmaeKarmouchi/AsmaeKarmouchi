@@ -3,6 +3,8 @@
 </h1>
 
 **Seeking my first full-time opportunity in AI, Data Science, or Python development**
+
+---
 *Passionate about Deep Learning, NLP & Innovation in R&D*
 
 - 🌍 **Location:** France & Morocco  
