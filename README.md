@@ -2,7 +2,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!👋;+I'm+Asmae+KARMOUCHI!" />
 </h1>
 
-**SSeeking my first full-time opportunity in AI, Data Science, or Python development**
+**Seeking my first full-time opportunity in AI, Data Science, or Python development**
 *Passionate about Deep Learning, NLP & Innovation in R&D*
 
 - 🌍 **Location:** France & Morocco  
