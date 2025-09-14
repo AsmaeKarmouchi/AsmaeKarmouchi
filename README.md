@@ -8,9 +8,9 @@
 ---
 *Passionate about Deep Learning, NLP & Innovation in R&D*
 
-- 🌍 **Location:** France & Morocco  
-- 🎓 **Education:** Software Engineering & Master PSMSC 
-- 📫 **Contact:** [LinkedIn](https://www.linkedin.com/in/asmae-karmouchi-522769255/)
+-  **Location:** France & Morocco  
+-  **Education:** Software Engineering & Master PSMSC 
+-  **Contact:** [LinkedIn](https://www.linkedin.com/in/asmae-karmouchi-522769255/)
 
 ---
 
@@ -26,7 +26,7 @@
 
 ---
 
-### 🧠 Specializations
+###  Specializations
 - Software Development  
 - Data Science & Machine Learning  
 - Natural Language Processing (NLP)  
@@ -36,21 +36,21 @@
 
 ---
 
-### 🛠️ Methodologies
+###  Methodologies
 - Agile (Scrum)  
 - Merise  
 - Waterfall (V-Model)
 
 ---
 
-### 🌐 Languages
+###  Languages
 - **Arabic:** Native  
 - **French:** Bilingual  
 - **English:** C1 Level  
 
 ---
 
-## 💼 Professional Experience
+## Professional Experience
 
 ### **Data Scientist Intern**  
 **Scalian, Toulouse, France** | *March – August 2025*  
