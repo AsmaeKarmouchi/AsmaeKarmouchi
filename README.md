@@ -2,13 +2,14 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!👋;+I'm+Asmae+KARMOUCHI!" />
 </h1>
 
-**Seeking my first full-time opportunity in AI, Data Science, or Python development**
+**Junior Software Engineer | Data Scientist | Python Developer**  
+*Passionate about AI, NLP, and Data-Driven Innovation*
 
 ---
 *Passionate about Deep Learning, NLP & Innovation in R&D*
 
 - 🌍 **Location:** France & Morocco  
-- 🎓 **Education:** Software Engineering 
+- 🎓 **Education:** Software Engineering & Master PSMSC 
 - 📫 **Contact:** [LinkedIn](https://www.linkedin.com/in/asmae-karmouchi-522769255/)
 
 ---
@@ -27,9 +28,10 @@
 
 ### 🧠 Specializations
 - Software Development  
-- Data Analysis & Artificial Intelligence (AI)  
-- Computer Vision & Deep Learning  
-- Modeling and Simulation  
+- Data Science & Machine Learning  
+- Natural Language Processing (NLP)  
+- Software Development & APIs  
+- Data Engineering & Warehousing  
 - Large Language Models (LLMs) & Generative AI  
 
 ---
@@ -50,27 +52,46 @@
 
 ## 💼 Professional Experience
 
-### **Internship – Development of Generative AI Solution**  
+### **Data Scientist Intern**  
 **Scalian, Toulouse, France** | *March – August 2025*  
-- Designed a pipeline to extract key insights from strategic documents using PyMuPDF.  
-- Fine-tuned RoBERTa for risk phrase detection and named entity recognition.  
-- Benchmarked LLaMA 3 (8B) vs Mistral for business entity extraction.  
-- **Technologies:** Python, RoBERTa, Hugging Face, LLMs, Docker, FastAPI, PostgreSQL.
+- Designed a PDF analysis pipeline with fine-tuning and model comparison (RoBERTa, DistilRoBERTa, MatSciBERT).  
+- Developed a business entity extraction module using a multi-agent system (Ollama + Granite 3.3).  
+- Integrated results into a **Neo4j Knowledge Graph**.  
+- **Tech stack:** Python, LangChain, FastAPI, PyTorch, Transformers, SpaCy, Docker, PostgreSQL.  
 
-### **Business Intelligence Engineer**  
-**BCP Securities Services** | *June – September 2024*  
-- Analyzed requirements for financial data management.  
-- Built a large-scale data storage solution using **Python, PostgreSQL, SQL Server, and SSIS**.  
-- Designed and implemented a financial data warehouse.
 
-### **Python/Web Developer**  
+### **Data Engineer Intern**  
+**Banque Populaire 2S** | *June – September 2024*  
+- Built a **Data Warehouse** consolidating millions of heterogeneous records.  
+- Automated ETL pipelines using **Python, PostgreSQL, SSIS, Celery**.  
+- Improved efficiency of financial reporting.  
+
+### **Python Developer Intern**  
 **STMicroelectronics** | *June – July 2023*  
-- Created and deployed tools to optimize internal processes.  
-- Developed web applications using **Python, Flask, and MySQL**.
-
+- Automated inventory management and reduced overtime.  
+- Developed an algorithm to optimize stock usage.  
+- **Technologies:** Python, Flask, MySQL.  
 ---
 
-## 🌟 Extracurricular Activities
+##  Projects
+
+- **WhatsApp Bot Platform (SaaS Multi-User)**  
+  Automated workflows, notifications, and calendar synchronization.  
+  *React, TypeScript, Tailwind, FastAPI, SQLAlchemy, JWT, Google API.*  
+
+- **Fake News Detection**  
+  Multilingual classification with fine-tuned **CamemBERT** and **DistilBERT**.  
+  *Python, Scikit-learn, PyTorch, TensorFlow.*  
+
+- **Time Series Forecasting**  
+  Demand prediction using **LSTM, ARIMA, Prophet**.  
+
+- **Credit Risk Prediction (MLOps)**  
+  Modular architecture with CI/CD, model tracking, and deployment.  
+  *Python, MLFlow, XGBoost, Streamlit, Docker, DVC.*  
+---
+
+##  Extracurricular Activities
 
 ### **MLOps Team Leader**  
 **IA ENSIAS CLUB** | *2023 – 2024*  
@@ -83,3 +104,10 @@
 - Conducted workshops on data cleaning and visualization.
 
 ---
+
+
+##  Certifications
+- Supervised Machine Learning: Regression & Classification (Stanford – Coursera)  
+- Understanding Data Visualization (DataCamp)  
+- Docker Basics for Containerization (DataScientist.fr)  
+- Neo4j Fundamentals (GraphAcademy) 
